@@ -53,7 +53,7 @@ Follow these steps to install Refacer:
     ```bash
     wget --content-disposition https://huggingface.co/deepinsight/inswapper/resolve/main/inswapper_128.onnx
 
-    The above link doesnt work  --I found this link does - https://huggingface.co/ezioruan/inswapper_128.onnx/tree/main
+    The above link doesnt work--I found this link does - https://huggingface.co/ezioruan/inswapper_128.onnx/tree/main
     
     
 
