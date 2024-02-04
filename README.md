@@ -52,7 +52,10 @@ Follow these steps to install Refacer:
    You can manually download the model created by Insightface from this [link](https://huggingface.co/deepinsight/inswapper/resolve/main/inswapper_128.onnx) and add it to the project folder. Alternatively, if you have `wget` installed, you can use the following command:
     ```bash
     wget --content-disposition https://huggingface.co/deepinsight/inswapper/resolve/main/inswapper_128.onnx
-    ```
+
+    The above link doesnt work  --I found this link does - https://huggingface.co/ezioruan/inswapper_128.onnx/tree/main
+    
+    
 
 3. Install dependencies:
 
